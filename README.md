@@ -63,11 +63,11 @@ The system sends data to Blynk using Virtual Pins:
 
 ## Prototype
 
-![Prototype](Images/prototype.jpg)
+![Prototype](Images/SG-Prototype-Photo.jpg)
 
 ## Team
 
-![Team Photo](Images/team_photo.jpg)
+![Team Photo](Images/SG-Team-Group-Photo.jpg)
 
 ## SDG Mapping
 
